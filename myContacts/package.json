@@ -1,0 +1,16 @@
+{
+  "name": "contacts-manager",
+  "version": "1.0.0",
+  "description": "contacts manager",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "quiz": "nodemon quiz-6-4.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
